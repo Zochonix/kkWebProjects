@@ -1,8 +1,2 @@
 This folder contains files and images that represent an object-oriented 2D game, which was developed using Processing.
 
-There are separate folders for different systems, but you're able to view the code for the application in the source folder
-of each one.
-
-E.g. windows-arm64 -> source -> source code contained in .pde files.
-
-Please make sure you download the right folder for your system.
